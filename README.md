@@ -70,17 +70,7 @@ Final project for *CS50's Introduction to Programming with Python*.
 | CMS & WordPress Web Development | Regione Marche — Programma GOL | 2026 |
 | Certified LabVIEW Associate Developer (CLAD) | National Instruments | 2017 |
 
----
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Lorenzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=palazzilorenzo&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palazzilorenzo&layout=compact&theme=default&hide_border=true)
-
-</div>
 
 ---
 
