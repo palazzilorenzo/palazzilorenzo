@@ -43,7 +43,7 @@
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data%20Science-150458?style=flat-square&logo=pandas&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-00C7B7?style=flat-square&logo=zapier&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Automation-00C7B7?style=flat-square&logo=zapier&logoColor=white)
 
 ---
 
