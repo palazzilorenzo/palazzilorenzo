@@ -15,9 +15,9 @@
 ## 🧑‍💻 About Me
 
 🎓 BSc in Physics — *Alma Mater Studiorum, University of Bologna* (2020)  
-🐍 Passionate about Python, data, and automation  
-📊 Currently building SQL skills — working through relational databases, queries, and JOINs  
-🔍 Actively seeking junior opportunities in **IT**, **Python development**, or **data-related roles**  
+🐍 Passionate about Python, data, and AI 
+📊 Currently building SQL skills — CS50's Introduction to Databases with SQL  
+🔍 Seeking junior opportunities in **Data Science** 
 📍 Based in Fano (PU), Italy
 
 ---
